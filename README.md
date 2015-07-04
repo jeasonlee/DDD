@@ -1,3 +1,7 @@
-# Front Seat
+# 前排开发设计档案夹
 
-FrontSeat is an organisation focus on Front-end Development.
+**前排** 是一个专注 Web 端开发的中文开源社区，其创建和维护均由社区中的成员共同完成。
+
+## 常用文档链接
+
+- [开发进程日志](Document/开发进程日志.md)
