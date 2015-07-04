@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="1024px" height="1024px" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.2 (12043) - http://www.bohemiancoding.com/sketch -->
+    <title>FrontSeat</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="803 746.398697 802.999998 850.601303 763.739496 850.601303 724.478994 746.398697 "></polygon>
+        <polygon id="path-2" points="299.521006 746.398697 299.521004 850.601303 260.260502 850.601303 221 746.398697 "></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="FrontSeat" sketch:type="MSArtboardGroup">
+            <rect id="Rectangle-1" stroke="#8F7474" stroke-width="5" fill="#E45151" sketch:type="MSShapeGroup" x="221" y="173.398697" width="582" height="476" rx="100"></rect>
+            <path d="M114.399288,605.051588 C114.135066,602.203006 114,599.316949 114,596.399326 L114,501.898068 C114,450.812076 155.41682,409.398697 206.5,409.398697 C257.586339,409.398697 299,450.809086 299,501.898068 L299,561.398697 L725,561.398697 L725,501.898068 C725,450.812076 766.41682,409.398697 817.5,409.398697 C868.586339,409.398697 910,450.809086 910,501.898068 L910,596.399326 C910,599.316812 909.86492,602.202752 909.600674,605.051232 C909.864189,607.1308 910,609.250226 910,611.401405 L910,696.395989 C910,724.011722 887.617461,746.398697 859.999409,746.398697 L164.000591,746.398697 C136.386027,746.398697 114,724.014311 114,696.395989 L114,611.401405 C114,609.250373 114.135797,607.131064 114.399288,605.051588 Z" id="Rectangle-2-Copy" stroke="#8F7474" stroke-width="6" fill="#B84242" sketch:type="MSShapeGroup"></path>
+            <g id="Polygon-1">
+                <use stroke="#8F7474" stroke-width="6" fill="#9D461D" sketch:type="MSShapeGroup" xlink:href="#path-1"></use>
+                <use stroke="none" fill="none" xlink:href="#path-1"></use>
+            </g>
+            <g id="Polygon-1-Copy">
+                <use stroke="#8F7474" stroke-width="6" fill="#9D461D" sketch:type="MSShapeGroup" transform="translate(260.260503, 798.500000) scale(-1, 1) translate(-260.260503, -798.500000) " xlink:href="#path-2"></use>
+                <use stroke="none" fill="none" xlink:href="#path-2"></use>
+            </g>
+        </g>
+    </g>
+</svg>

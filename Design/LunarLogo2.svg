@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="1024px" height="1024px" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.2 (12043) - http://www.bohemiancoding.com/sketch -->
+    <title>FrontSeat Copy 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path id="path-1" d="M552.92855,32.7904674 L507.016696,74.9382639 L131.400535,28.5716868 L94.8107039,123.185288 L101.64211,425.248201 L16.0582871,473.121803 L461.300533,918.587693 L930.426028,407.959661 L552.92855,32.7904674 Z"></path>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-3">
+            <feGaussianBlur stdDeviation="35.3553391 -35.3553391" in="SourceGraphic" result="blur"></feGaussianBlur>
+        </filter>
+        <polygon id="path-4" points="587.086702 488.213717 587.086701 576.935826 553.633408 576.935826 520.180116 488.213717 "></polygon>
+        <polygon id="path-5" points="158.079703 488.213717 158.079701 576.935826 124.626409 576.935826 91.1731163 488.213717 "></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="FrontSeat-Copy-2" sketch:type="MSArtboardGroup">
+            <g id="Oval-1-+-Mask-+-Oval-2-+-Group" sketch:type="MSLayerGroup" transform="translate(35.000000, 35.000000)">
+                <ellipse id="Oval-1" stroke-opacity="0.141247736" stroke="#000000" stroke-width="15" fill="#4990E2" sketch:type="MSShapeGroup" cx="471.995972" cy="471.780642" rx="471.995972" ry="471.780642"></ellipse>
+                <g id="Mask-+-Oval-2-+-Group" transform="translate(132.866062, 182.142996)">
+                    <mask id="mask-2" sketch:name="Mask" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Mask" sketch:type="MSShapeGroup" xlink:href="#path-1"></use>
+                    <ellipse id="Oval-2" fill-opacity="0.376811594" fill="#000000" filter="url(#filter-3)" sketch:type="MSShapeGroup" mask="url(#mask-2)" cx="339.66566" cy="290.173152" rx="386.811682" ry="386.635214"></ellipse>
+                    <g id="Group" transform="translate(0.000000, 1.000000)">
+                        <rect id="Rectangle-1" fill="#FFFFFF" sketch:type="MSShapeGroup" x="91.1731163" y="0.339465883" width="495.913586" height="405.284718" rx="100"></rect>
+                        <path d="M0.825137537,371.603971 C0.320658055,368.001869 0.0598212196,364.321702 0.0598212196,360.580674 L0.0598212196,279.954278 C0.0598212196,236.453178 35.3114419,201.188569 78.8178809,201.188569 C122.314756,201.188569 157.575941,236.457719 157.575941,279.954278 L157.575941,330.697597 L520.683878,330.697597 L520.683878,279.954278 C520.683878,236.453178 555.935499,201.188569 599.441938,201.188569 C642.938813,201.188569 678.199998,236.457719 678.199998,279.954278 L678.199998,360.580674 C678.199998,364.321688 677.939288,368.001787 677.435039,371.603782 C677.97676,374.552991 678.259819,377.592846 678.259819,380.698982 L678.259819,438.212332 C678.259819,465.827335 655.874036,488.213717 628.265327,488.213717 L49.9944915,488.213717 C22.3832963,488.213717 0,465.833656 0,438.212332 L0,380.698982 C0,377.593031 0.283185704,374.553223 0.825137537,371.603971 Z" id="Rectangle-2-Copy" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+                        <g id="Polygon-1">
+                            <use fill="#FFFFFF" fill-rule="evenodd" sketch:type="MSShapeGroup" xlink:href="#path-4"></use>
+                            <use fill="none" xlink:href="#path-4"></use>
+                        </g>
+                        <g id="Polygon-1-Copy">
+                            <use fill="#FFFFFF" fill-rule="evenodd" sketch:type="MSShapeGroup" transform="translate(124.626410, 532.574771) scale(-1, 1) translate(-124.626410, -532.574771) " xlink:href="#path-5"></use>
+                            <use fill="none" xlink:href="#path-5"></use>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
