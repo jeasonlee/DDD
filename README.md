@@ -4,7 +4,7 @@
 >
 > —— 李忻阳 *FrontSeat 创始人*
 
-**FrontSeat** 是一个专注 Web 端开发的中文开源社区，
+[]**FrontSeat**](http://45.55.4.212/) 是一个专注 Web 端开发的中文开源社区，
 其创建和维护均由社区中的成员共同完成。
 
 **FrontSeat** 社区建立于 **Discourse** 之上，
